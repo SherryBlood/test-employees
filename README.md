@@ -51,7 +51,8 @@ Sample of the exported file showing perfectly formatted data, including long pho
 
 - **Backend:** PHP 8.x, PDO (MySQL)
 - **Frontend:** Tailwind CSS, JavaScript (ES6+)
-- **Libraries:** \* [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - High-performance Excel processing.
+- **Libraries:**
+  -  [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - High-performance Excel processing.
   - [SweetAlert2](https://sweetalert2.github.io/) - Premium popup notifications.
 - **Database:** MySQL with Unique Index constraints for data synchronization.
 
